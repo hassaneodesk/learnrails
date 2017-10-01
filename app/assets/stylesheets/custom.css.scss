@@ -1,2 +1,17 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.navbar-brand {
+  font-size: 20px;
+  font-weight: bold;
+}
+.jumbotron {
+  background: asset-url("range-rover-velar-r-dynamic-d300-2017-7p");
+  background-size: cover;
+  color: #fff;
+}
+.footer {
+  background: #333;
+  padding: 15px;
+  color: #eee;
+}
